@@ -1,10 +1,10 @@
 {
- "version": "3.2.2",
- "code": 22,
- "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.2.2.apk",
+ "version": "3.3",
+ "code": 23,
+ "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.3.apk",
  "notes": [
-  "Arreglado: tras la prueba de nivel de inglés, «Ir a mi camino» empezaba con repasos de japonés",
-  "Cada camino (japonés / inglés) repasa ahora solo su idioma"
+  "Inglés: nueva etapa ✈️ Viajes (aeropuerto, hotel, dinero, coche, restaurantes, problemas y quejas) con role-plays y 7 tipos de práctica",
+  "Inglés: 17 temas de gramática nuevos (artículos, question tags, past perfect, pedir favores, wish…)"
  ],
- "size": 326874
+ "size": 351689
 }
