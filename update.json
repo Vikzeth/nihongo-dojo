@@ -1,10 +1,10 @@
 {
- "version": "3.2.1",
- "code": 21,
- "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.2.1.apk",
+ "version": "3.2.2",
+ "code": 22,
+ "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.2.2.apk",
  "notes": [
-  "Versión de prueba: si ves este aviso, las actualizaciones desde la app funcionan ✓",
-  "Incluye todo lo de la 3.2: actualizaciones desde la app y el arreglo del inicio en blanco"
+  "Arreglado: tras la prueba de nivel de inglés, «Ir a mi camino» empezaba con repasos de japonés",
+  "Cada camino (japonés / inglés) repasa ahora solo su idioma"
  ],
  "size": 326874
 }
