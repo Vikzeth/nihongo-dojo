@@ -1,10 +1,11 @@
 {
- "version": "3.3",
- "code": 23,
- "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.3.apk",
+ "version": "3.4",
+ "code": 24,
+ "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.4.apk",
  "notes": [
-  "Inglés: nueva etapa ✈️ Viajes (aeropuerto, hotel, dinero, coche, restaurantes, problemas y quejas) con role-plays y 7 tipos de práctica",
-  "Inglés: 17 temas de gramática nuevos (artículos, question tags, past perfect, pedir favores, wish…)"
+  "Speaking más estricto: corrección palabra por palabra, claridad y 3 intentos (se puede cambiar en Ajustes)",
+  "Nueva sección 🗣️ Pronunciación: lo que no se te entiende se guarda con su fonética para practicarlo",
+  "Más speaking (role-plays hablados, responde en voz alta, shadowing) y más listening (diálogos, números, pares mínimos)"
  ],
- "size": 351689
+ "size": 388787
 }
