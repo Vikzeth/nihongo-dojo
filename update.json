@@ -1,11 +1,10 @@
 {
- "version": "3.4",
- "code": 24,
- "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.4.apk",
+ "version": "3.5",
+ "code": 25,
+ "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.5.apk",
  "notes": [
-  "Speaking más estricto: corrección palabra por palabra, claridad y 3 intentos (se puede cambiar en Ajustes)",
-  "Nueva sección 🗣️ Pronunciación: lo que no se te entiende se guarda con su fonética para practicarlo",
-  "Más speaking (role-plays hablados, responde en voz alta, shadowing) y más listening (diálogos, números, pares mínimos)"
+  "Nuevo apartado 🎯 Practicar: elige filas de kana (p. ej. ら y ま), unidades o temas, y cómo practicarlos (leer, escuchar, escribir o mezcla)",
+  "Escritura: cada carácter se abre en cuanto lo ves en una lección; ya no hay que terminar todo el hiragana"
  ],
- "size": 388787
+ "size": 392960
 }
