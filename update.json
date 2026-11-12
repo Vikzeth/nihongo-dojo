@@ -1,10 +1,10 @@
 {
- "version": "3.5",
- "code": 25,
- "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.5.apk",
+ "version": "3.6",
+ "code": 26,
+ "apk": "https://raw.githubusercontent.com/Vikzeth/nihongo-dojo/main/NihongoDojo-3.6.apk",
  "notes": [
-  "Nuevo apartado 🎯 Practicar: elige filas de kana (p. ej. ら y ま), unidades o temas, y cómo practicarlos (leer, escuchar, escribir o mezcla)",
-  "Escritura: cada carácter se abre en cuanto lo ves en una lección; ya no hay que terminar todo el hiragana"
+  "Escritura: botón «No lo sé» (te enseña cómo se escribe) y «Repetir ahora»",
+  "Lo que escribes con fallos vuelve a salir más tarde en la sesión, primero calcándolo, como en Kanji Dojo"
  ],
  "size": 392960
 }
